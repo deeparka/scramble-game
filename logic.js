@@ -6,13 +6,13 @@ let play = false;
 let newWords = "";
 let ranWords = "";
 let sWords = [
-  "examination",
+  "pasta",
   "committee",
-  "bifunctional",
-  "cofunction",
-  "functionality",
+  "functional",
+  "java",
+  "python",
   "horizontal",
-  "vertically"
+  "vertical"
 ];
 
 const createNewWords = () => {
